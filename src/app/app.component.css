@@ -1,0 +1,14 @@
+div {
+  padding: 10px;
+}
+div label {
+  width:100px;
+  display: inline-block;
+}
+ .ng-invalid {
+  border-color: red;
+}
+
+.ng-valid {
+  border-color: green;
+}
